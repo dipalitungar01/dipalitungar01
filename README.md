@@ -12,8 +12,8 @@
 
 🎓 M.Sc. Computer Science student at **Savitribai Phule Pune University (SPPU).**
 
-💻 Interested in Software Development, Java Programming, Database Management, and Web Technologies.
-
+ 💻 Passionate about Java, Software Development, and Problem Solving.
+ 
 📚 Passionate about learning new technologies and improving problem-solving skills through continuous practice.
 
 ---
