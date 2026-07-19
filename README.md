@@ -3,7 +3,9 @@
 <h3 align="center">M.Sc. Computer Science Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=M.Sc.+Computer+Science+Student;Java+Programming;Software+Development;Database+Management;Web+Technologies" /> 
+  <h3 align="center">
+    M.Sc. Computer Science Student | Java Programming | Software Development | Database Management | Web Technologies
+  </h3>
 </p>
 
 ---
