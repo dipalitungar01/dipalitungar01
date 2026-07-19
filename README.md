@@ -3,8 +3,10 @@
 <h3 align="center">M.Sc. Computer Science Student</h3>
 
 <p align="center">
-  <h3 align="center">
-    M.Sc. Computer Science Student | Java Programming | Software Development | Database Management | Web Technologies
+  <h3>
+    <span style="color:#36BCF7;">
+      M.Sc. Computer Science Student | Java Programming | Software Development | Database Management | Web Technologies
+    </span>
   </h3>
 </p>
 
