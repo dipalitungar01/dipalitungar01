@@ -5,7 +5,7 @@
 <p align="center">
   <h3 align="center">
     <span style="color:red;">
-      M.Sc. Computer Science Student | Java Programming | Software Development | Database Management | Web Technologies
+      M.Sc. Computer Science Student | Python | Java Programming | Software Development | Database Management | Web Technologies
     </span>
   </h3>
 </p>
@@ -16,8 +16,8 @@
 
 🎓 M.Sc. Computer Science student at **Savitribai Phule Pune University (SPPU).**
 
- 💻 Passionate about Java, Software Development, and Problem Solving.
- 
+💻 Passionate about **Python, Java, Software Development, and Problem Solving.**
+
 📚 Passionate about learning new technologies and improving problem-solving skills through continuous practice.
 
 ---
@@ -42,14 +42,20 @@
 
 ### 👨‍💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### 🌐 Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🐍 Python
+
+![Python Fundamentals](https://img.shields.io/badge/Python%20Fundamentals-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6F00?style=for-the-badge)
 
 ### ☕ Core Java
 
@@ -60,8 +66,8 @@
 
 ### 🗄️ Database
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge)
 
 ### 📚 Computer Science
@@ -72,11 +78,11 @@
 
 ### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
 
